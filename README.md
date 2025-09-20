@@ -1,5 +1,5 @@
 ArkLink by xbennies
-Version 1 (19/09/2025)
+Version 1.1 (20/09/2025)
 
 to setup ArkLink:
 
